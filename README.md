@@ -1,3 +1,5 @@
+#privacy 
+
 Privacy Policy for Tally It
 
 At this time, this app does not gather or use any private information of the user.
